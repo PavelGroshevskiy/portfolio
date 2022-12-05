@@ -31,7 +31,7 @@ const mernBlog = () => {
 						technologies that make up the stack: MongoDB, Express, React, and Node.js. M -
 						MongoDB is a NoSQL document-based database. Databases are used to persist any
 						data the users will need. In this guide, we are going to use MongoDB Atlas,
-						MongoDB's managed database solution. E - Express.js is a flexible and
+						MongoDBs managed database solution. E - Express.js is a flexible and
 						minimalist web framework for building Node.js applications R - React.js is a
 						front-end frameowrk that lets you build interactive UIs. N - Node.js is an
 						asynchronous event-driven JavaScript runtime designed to build scalable
